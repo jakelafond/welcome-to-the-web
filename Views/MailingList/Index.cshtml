@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Mailing List";
+}
+<h1>@ViewData["Title"]</h1>
+<h2>Here are the people who are subscribed</h2>
+<div>
+    
+    @model Dictionary<string,string>
+@foreach (var person in Model)
+{
+    <p>Name: @person.Key : Email: @person.Value</p>
+}
+
+</div>
+

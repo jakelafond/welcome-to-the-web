@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Subscribe";
+}
+<h2>Subscribe to us below!</h2>
+<div>
+<form asp-controller="Subscribe" asp-action="Index" method="post">
+    Name: <input type="text" name = "name" /><br />
+    Email:  <input type="email" name = "email" /> <br />
+    <button type="submit">Register</button>
+</form>
+</div>
+<div>
+    <p> @ViewData["name"] </p>
+    <p>@ViewData["email"]</p>

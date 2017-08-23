@@ -1,0 +1,10 @@
+/Users/jacoblafond/dotnet/welcome-to-web/bin/Debug/netcoreapp2.0/welcome-to-web.deps.json
+/Users/jacoblafond/dotnet/welcome-to-web/bin/Debug/netcoreapp2.0/welcome-to-web.runtimeconfig.json
+/Users/jacoblafond/dotnet/welcome-to-web/bin/Debug/netcoreapp2.0/welcome-to-web.runtimeconfig.dev.json
+/Users/jacoblafond/dotnet/welcome-to-web/bin/Debug/netcoreapp2.0/welcome-to-web.dll
+/Users/jacoblafond/dotnet/welcome-to-web/bin/Debug/netcoreapp2.0/welcome-to-web.pdb
+/Users/jacoblafond/dotnet/welcome-to-web/obj/Debug/netcoreapp2.0/welcome-to-web.csproj.CoreCompileInputs.cache
+/Users/jacoblafond/dotnet/welcome-to-web/obj/Debug/netcoreapp2.0/welcome-to-web.AssemblyInfoInputs.cache
+/Users/jacoblafond/dotnet/welcome-to-web/obj/Debug/netcoreapp2.0/welcome-to-web.AssemblyInfo.cs
+/Users/jacoblafond/dotnet/welcome-to-web/obj/Debug/netcoreapp2.0/welcome-to-web.dll
+/Users/jacoblafond/dotnet/welcome-to-web/obj/Debug/netcoreapp2.0/welcome-to-web.pdb
